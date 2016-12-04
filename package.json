@@ -1,0 +1,29 @@
+{
+    "author": "luisjuansp@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblesound",
+    "pebble": {
+        "displayName": "PebbleSound",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4ac89219-82e4-4548-994b-638dec2c3250",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
