@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PebbleSound</string>
+    <string name="chooser_title">Chooser title</string>
+</resources>
